@@ -1,2 +1,1 @@
-# pet-store
-Jakarta EE Pet Store
+# Jakarta EE Pet Store
